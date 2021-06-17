@@ -1,1 +1,1 @@
-# simple-app-learning
+Spring Boot crud application using MongoDB
