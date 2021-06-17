@@ -1,1 +1,1 @@
-Spring Boot crud application using MongoDB
+Spring Boot
